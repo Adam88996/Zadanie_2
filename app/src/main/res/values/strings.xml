@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zadanie_1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_restart">Restart</string>
+    <string name="prompt_button">Podpowiedź</string>
+    <string name="back_button">Powrót do quizu</string>
+
+    <string name="q1">1.Andy Rubin był głównym założycielem firmy Android Inc.</string>
+    <string name="q2">2.Firma Android Inc. powstała w 2001 roku </string>
+    <string name="q3">3.Pierwotnym celem Androida była aplikacja pogodowa </string>
+    <string name="q4">4.Google przyjęło Android Inc. w 2005 roku </string>
+    <string name="q5">5.Pierwszy telefon z Androidem to HTC Dream </string>
+
+    <string name="correct_answer">Dobra odpowiedź! ✓</string>
+    <string name="incorrect_answer">Zła odpowiedź! ✗</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+</resources>
